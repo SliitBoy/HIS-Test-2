@@ -1,0 +1,31 @@
+OPD2019-OPD,,,
+name,codeVal,debitAcc,creditAcc
+Linen Charges,LNC,1,2
+Labour charges,LC,1,2
+Stationary Charges,SC,1,2
+CLINIC2019-Clinic,,,
+name,codeVal,debitAcc,creditAcc
+Labour charges,LC,1,2
+Equipement Charges,EQ,"3,4",1
+Patient Appointment Charges,PAC,7,1
+PHY2019-Pharmacy,,,
+name,codeVal,debitAcc,creditAcc
+Sell Drug,SD,11,6
+Sell Equipement ,SE,11,6
+GEN2019-General,,,
+name,codeVal,debitAcc,creditAcc
+Phone Bill,TPB,7,1
+Electricity Bill,ELB,7,1
+Salary,SAL,"7,8",1
+Dispose Vehicle,DISV,1,76
+Buy Vehicle,BUV,73,1
+Buy Laptop,BUL,65,1
+Dispose Laptop,DISL,1,68
+Buy test,BUT,77,1
+Dispose test,DIST,1,80
+Buy Test2,BUT2,85,1
+Dispose test2,DIST2,1,88
+Buy test3,BUT3,89,1
+Dispose test3,DIST3,1,92
+Create Accrual Payment for Payment Account,ACCFP,93,"1,94"
+Accured payment ,ACCP,94,1

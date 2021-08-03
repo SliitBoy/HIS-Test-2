@@ -1,0 +1,4 @@
+Tax Name,Description,Tax Agency Name,Registration Number,Starting Date Of Tax Period,Filling Frequency,Reporting Method,Sales Rate
+VAT,Value Added Tax,Inland Revenue Department,1,December,monthly,Accrual,15%
+Income Tax,Income Tax,Inland Revenue Department,2,December,monthly,Accrual,5%
+Property Tax,Property Tax,Inland Revenue Department,5,December,Yearly,Money,10%
